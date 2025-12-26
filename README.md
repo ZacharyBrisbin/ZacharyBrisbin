@@ -16,7 +16,7 @@
 
 [<img align="left" alt="Zachary Brisbin | Facebook" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />][facebook]
 [<img align="left" alt="Zachary Brisbin | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-<br><b>Email:<a href="mailto:zrbrisbin@gmail.com">My Email</a></b>
+<br><br><b>Email:<a href="mailto:zrbrisbin@gmail.com">My Email</a></b>
 
 
 [facebook]: https://www.facebook.com/zachary.brisbin
