@@ -1,16 +1,102 @@
-## Hi there 👋
+# 👋 Hi, I'm Zachary Brisbin
 
-<!--
-**ZacharyBrisbin/ZacharyBrisbin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 IT Support | Networking Enthusiast | Home Lab Builder  
+🎯 Focused on mastering infrastructure, Active Directory, and core networking fundamentals  
+📚 Currently strengthening CompTIA A+ Core 1 knowledge  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 About Me
+
+- 🔧 Hands-on learner building real-world IT labs
+- 🌐 Interested in networking challenges & infrastructure
+- 🖥️ Strong foundation in Windows Server environments
+- 📈 Actively improving DHCP, DNS, and troubleshooting skills
+- 🚀 Building projects to bridge theory → real-world practice
+
+---
+
+# 🧪 Home Lab Projects
+
+---
+
+## 🏢 Active Directory Domain Lab
+
+> Built a Windows Server domain environment with domain controller, users, OUs, Group Policy, DNS, and client machine integration.
+
+### Skills Demonstrated
+- Active Directory Domain Services (AD DS)
+- Organizational Unit (OU) design
+- Group Policy Objects (GPO)
+- User & group management
+- DNS configuration
+- Domain join process
+- Troubleshooting authentication issues
+
+🔗 [View Project](https://github.com/ZacharyBrisbin/ActiveDirectory)
+
+---
+
+## 🌐 DHCP Server & Network Services Lab
+
+> Designed and deployed a Windows Server DHCP environment with scoped IP addressing and policy configuration aligned with A+ objectives.
+
+### Skills Demonstrated
+- DHCP scope creation
+- Reservations
+- Lease management
+- DNS integration
+- IPv4 configuration
+- Network troubleshooting
+- Client-side IP diagnostics
+
+🔗 [View Project](https://github.com/ZacharyBrisbin/DHCP-Server)
+
+---
+
+# 🛠️ Technical Skills
+
+## 💻 Operating Systems
+- Windows Server
+- Windows 10 / 11
+- Linux (basic administration)
+
+## 🌐 Networking
+- TCP/IP fundamentals
+- Subnetting (basic)
+- DHCP
+- DNS
+- NAT
+- VLAN concepts
+
+## 🔐 Identity & Infrastructure
+- Active Directory
+- Group Policy
+- User & Permission Management
+- Domain Controller setup
+
+## 🧰 Tools
+- VirtualBox
+- PowerShell (basic scripting)
+- Command Prompt utilities
+- Git & GitHub
+
+---
+
+# 📈 Current Focus
+
+- Strengthening networking troubleshooting
+- Deepening DHCP & DNS knowledge
+- Preparing for CompTIA A+ certification
+- Building production-style lab documentation
+
+---
+
+# 📬 Connect With Me
+
+- [LinkedIn](https://www.linkedin.com/in/zacharybrisbin)
+- [Email](mailto:zacharybrisbin@rocketmail.com)
+
+---
+
+⭐ Always building. Always improving.
