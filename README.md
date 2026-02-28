@@ -33,7 +33,7 @@
 - Domain join process
 - Troubleshooting authentication issues
 
-🔗 [View Project](https://github.com/ZacharyBrisbin/ActiveDirectory)
+🔗 [View Project](../../../ActiveDirectory)
 
 ---
 
@@ -50,7 +50,7 @@
 - Network troubleshooting
 - Client-side IP diagnostics
 
-🔗 [View Project](https://github.com/ZacharyBrisbin/DHCP-Server)
+🔗 [View Project](../../../DHCP-Server)
 
 ---
 
