@@ -20,7 +20,7 @@
 
 ---
 
-## 🏢 Active Directory Domain Lab
+## 🏢 Active Directory Lab
 
 > Built a Windows Server domain environment with domain controller, users, OUs, Group Policy, DNS, and client machine integration.
 
@@ -37,9 +37,9 @@
 
 ---
 
-## 🌐 DHCP Server & Network Services Lab
+## 🌐 DHCP Server Lab
 
-> Designed and deployed a Windows Server DHCP environment with scoped IP addressing and policy configuration aligned with A+ objectives.
+> Designed and deployed a Windows Server DHCP environment with scoped IP addressing and policy configuration.
 
 ### Skills Demonstrated
 - DHCP scope creation
@@ -52,6 +52,17 @@
 
 🔗 [View Project](../../../DHCP-Server)
 
+---
+
+## 🌐 pfSense Firewall lab
+> Deployed and configured pfSense as a perimeter firewall for a small enterprise lab environment.
+
+### Skills Demonstrated
+- Firewall deployment
+- WAN/LAN configuration
+- Network Address Translation (NAT)
+- Firewall rule creation
+🔗 [View Project](../../../pfSense-Firewall)
 ---
 
 # 🛠️ Technical Skills
