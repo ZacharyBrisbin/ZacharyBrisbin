@@ -71,6 +71,7 @@
 ## 💻 Operating Systems
 - Windows Server
 - Windows 10 / 11
+- pfSense
 - Linux (basic administration)
 
 ## 🌐 Networking
