@@ -33,7 +33,7 @@
 - Domain join process
 - Troubleshooting authentication issues
 
-🔗 [View Project](../../../ActiveDirectory)
+  🔗 [View Project](../../../ActiveDirectory)
 
 ---
 
@@ -50,7 +50,7 @@
 - Network troubleshooting
 - Client-side IP diagnostics
 
-🔗 [View Project](../../../DHCP-Server)
+  🔗 [View Project](../../../DHCP-Server)
 
 ---
 
@@ -62,7 +62,8 @@
 - WAN/LAN configuration
 - Network Address Translation (NAT)
 - Firewall rule creation
-🔗 [View Project](../../../pfSense-Firewall)
+
+  🔗 [View Project](../../../pfSense-Firewall)
 ---
 
 # 🛠️ Technical Skills
@@ -79,6 +80,8 @@
 - DNS
 - NAT
 - VLAN concepts
+- Firewalls
+- Network Adress Translation
 
 ## 🔐 Identity & Infrastructure
 - Active Directory
