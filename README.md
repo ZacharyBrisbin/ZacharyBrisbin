@@ -65,36 +65,52 @@
 
   🔗 [View Project](../../../pfSense-Firewall)
 ---
+## 🌐 VLAN Segmentation Lab
+
+Virtual enterprise lab simulating network segmentation using pfSense and VirtualBox. Implements VLAN-based isolation, firewall policy enforcement, inter-VLAN routing, and Active Directory integration in a controlled environment.
+
+### Skills Demonstrated
+
+- Network segmentation and subnet design  
+- Firewall configuration and traffic control  
+- Inter-VLAN routing  
+- DHCP and DNS configuration  
+- Active Directory networking  
+- Virtualized infrastructure deployment
+
+  🔗 [View Project](../../../VLAN-Segmentation)
+---
 
 # 🛠️ Technical Skills
 
 ## 💻 Operating Systems
-- Windows Server
-- Windows 10 / 11
-- pfSense
-- Linux (basic administration)
+- Windows Server Administration  
+- Windows 10 / 11  
+- pfSense Firewall  
+- Linux (Basic System Administration)
 
 ## 🌐 Networking
-- TCP/IP fundamentals
-- Subnetting (basic)
-- DHCP
-- DNS
-- NAT
-- VLAN concepts
-- Firewalls
-- Network Adress Translation
+- TCP/IP Fundamentals  
+- Subnetting  
+- DHCP Configuration  
+- DNS Management  
+- NAT (Network Address Translation)  
+- VLAN Concepts  
+- Firewall Policy Configuration  
+- Network Troubleshooting  
 
 ## 🔐 Identity & Infrastructure
-- Active Directory
-- Group Policy
-- User & Permission Management
-- Domain Controller setup
+- Active Directory Deployment & Management  
+- Group Policy Configuration  
+- User & Permission Management  
+- Domain Controller Setup  
+- Authentication & Authorization Management  
 
-## 🧰 Tools
-- VirtualBox
-- PowerShell (basic scripting)
-- Command Prompt utilities
-- Git & GitHub
+## 🧰 Tools & Technologies
+- VirtualBox  
+- PowerShell (Basic Automation & Scripting)  
+- Command Line Utilities  
+- Git & GitHub 
 
 ---
 
