@@ -1,18 +1,18 @@
-# 👋 Hi, I'm Zachary Brisbin
+# 👋 Welcome! I'm Zachary Brisbin
 
-💻 IT Support | Networking Enthusiast | Home Lab Builder  
-🎯 Focused on mastering infrastructure, Active Directory, and core networking fundamentals  
-📚 Currently strengthening CompTIA A+ Core 1 knowledge  
+💻 Aspiring IT & Network Professional | Home Lab Enthusiast  
+🎯 Focused on mastering networking, infrastructure, and Active Directory  
+📚 Currently developing hands-on skills through real-world labs and CompTIA A+ Core 1 prep
 
 ---
 
 ## 🧠 About Me
 
-- 🔧 Hands-on learner building real-world IT labs
-- 🌐 Interested in networking challenges & infrastructure
-- 🖥️ Strong foundation in Windows Server environments
-- 📈 Actively improving DHCP, DNS, and troubleshooting skills
-- 🚀 Building projects to bridge theory → real-world practice
+- 🔧 Hands-on learner turning theory into practical IT experience  
+- 🌐 Passionate about networking challenges, lab environments, and infrastructure design  
+- 🖥️ Experienced with Windows Server environments and client systems  
+- 📈 Actively strengthening skills in DHCP, DNS, Active Directory, and troubleshooting  
+- 🚀 Building labs and projects that simulate real-world enterprise scenarios
 
 ---
 
